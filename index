@@ -1,1 +1,10 @@
-Test
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to shbarnes.com!</title>
+  </head>
+  <body>
+      <h1>shbarnes.com</h1>
+        <p><i>Currently a work in progress. Hosted with GitHub Pages.</i></p>
+  </body>
+</html>
