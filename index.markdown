@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to the official shbanes.com site. This site is currently under construction, please check back later, or read the About page if you're interested in the technical side of things.
+Welcome to the official shbarnes.com site. This site is currently under construction, please check back later, or read the About page if you're interested in the technical side of things.
